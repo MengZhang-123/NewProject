@@ -9,13 +9,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp4", "ConsoleApp4\ConsoleApp4.csproj", "{2161F8A9-4C9C-49BB-8478-6A3259720B4F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{05433839-CB1F-4141-8A8B-587F1E24AA3F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder2", "NewFolder2", "{58A826AB-A8AF-4257-94C2-704502AD2447}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder3", "NewFolder3", "{08EB940E-7160-495E-97F0-1889A3CC4CE9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder4", "NewFolder4", "{B10285E6-A1C1-452A-A5CC-901D931CC15C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1BBC34BE-523E-43D5-993A-E0BD03E1BFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -30,5 +35,8 @@ Global
 		{2161F8A9-4C9C-49BB-8478-6A3259720B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2161F8A9-4C9C-49BB-8478-6A3259720B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2161F8A9-4C9C-49BB-8478-6A3259720B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
